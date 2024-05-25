@@ -1,2 +1,3 @@
 # Hangman-Game
-n engaging Hangman game implemented in Python, offering a classic word-guessing experience. 
+engaging Hangman game implemented in Python, offering a classic word-guessing experience. 
+**Players can test their vocabulary skills by guessing letters to reveal a hidden word within a limited number of attempts. The game features a user-friendly interface and provides feedback on correct and incorrect guesses. With adjustable difficulty levels and a diverse word bank, players can enjoy endless entertainment. This project demonstrates proficiency in Python programming fundamentals and logical problem-solving. Suitable for both beginners and enthusiasts, it offers a fun and educational experience for all ages**
